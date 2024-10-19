@@ -1,0 +1,30 @@
+{
+    "routes": [
+      {
+        "busNumber": "EX 1-1",
+        "start": "Makumbara Bus Stand",
+        "end": "Matara"
+      },
+      {
+        "busNumber": "EX001",
+        "start": "Makumbara Bus Stand",
+        "end": "Galle Central Bus Station"
+      },
+      {
+        "busNumber": "EX 1-2",
+        "start": "Kaduwela",
+        "end": "Matara"
+      },
+      {
+        "busNumber": "02",
+        "start": "Central Bus Stop – Fort",
+        "end": "Galle Central Bus Station"
+      },
+      {
+        "busNumber": "A-Bay",
+        "start": "Maradana Police Bus Stop",
+        "end": "Akkaraipattu"
+      }
+    ]
+  }
+  
